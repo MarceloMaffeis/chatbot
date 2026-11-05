@@ -3,6 +3,8 @@ import pandas as pd
 from pypdf import PdfReader
 from openai import AzureOpenAI
 
+# Primeira Versão
+
 st.set_page_config(
     page_title="Suporte de TI - Chatbot RAG",
     page_icon="🛠️",
